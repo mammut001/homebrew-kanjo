@@ -1,6 +1,6 @@
 cask "kanjo" do
-  version "0.6.1"
-  sha256 "e8f6f5c6fa86482c0b614b1d770cef5043f90b9cbd6fbb049deced86da6bd3ea"
+  version "0.6.2"
+  sha256 "2edef9973699cba3e10f14e52b237900e4416ba4e8a561158c2ec41fc35420c5"
 
   url "https://github.com/mammut001/kanjo/releases/download/v#{version}/Kanjo-#{version}-macos.dmg"
   name "Kanjo"
